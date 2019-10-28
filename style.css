@@ -1,0 +1,14 @@
+table,
+td {
+    border: 1px solid blue;
+}
+
+thead,
+tfoot {
+    background-color: #444;
+    color: blue;
+}
+
+input {
+padding: 1em;
+}
